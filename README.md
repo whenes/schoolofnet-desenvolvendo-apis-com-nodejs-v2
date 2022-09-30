@@ -4,4 +4,4 @@ Projeto desenvolvido no durante o curso, criadas uma API e um WebApp.
 
 ### Tecnologias:
 
-`Express` `BodyParser` `morgan` `Babel` `Nodemon` `CepPromise` `Cors` `HttpServer` `Mongoose` `Rest` `Pug`
+`Express` `BodyParser` `morgan` `Babel` `Nodemon` `CepPromise` `Cors` `HttpServer` `Mongoose` `Rest` `Pug` `ES 2015`
